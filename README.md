@@ -1,6 +1,6 @@
 <!-- Header Image or GIF -->
 
-<div align="center">
+<div align="left">
 <h1>Hi there, I'm Shrutam Macwan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <!-- Animated Typing Effect -->
