@@ -35,39 +35,6 @@ I believe that data is more than just rows and columns; it has a heartbeat and a
 
 💬 Ask me about Python, Software Architecture, and Data Intuition.
 
-🛠️ Tech Stack
-
-Languages & Scripting
-
-
-
-
-
-<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL" />
-
-Data Science & AI
-
-
-
-
-
-<img src="https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dflat-square%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Matplotlib" />
-
-Software Development & Tools
-
-
-
-
-
-<img src="https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
-
-
 
 ⚡ Fun Fact
 
